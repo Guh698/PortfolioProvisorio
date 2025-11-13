@@ -178,4 +178,8 @@ img {
     width: calc(100% - 9.4rem);
     height: 30%;
   }
+
+  .lower-message {
+    display: none;
+  }
 }
