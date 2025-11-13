@@ -96,7 +96,6 @@ h2 {
 
 .hero-works-list {
   display: flex;
-  width: 37%;
   flex-direction: column;
   gap: 1.7rem;
   font-size: var(--normal-font);
@@ -177,9 +176,5 @@ img {
     top: 7.7rem;
     width: calc(100% - 9.4rem);
     height: 30%;
-  }
-
-  .lower-message {
-    display: none;
   }
 }
