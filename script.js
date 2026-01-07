@@ -1,4 +1,4 @@
-gsap.registerPlugin(SplitText, MorphSVGPlugin, MotionPathPlugin);
+gsap.registerPlugin(SplitText);
 
 document.addEventListener("DOMContentLoaded", () => {
   const links = document.querySelectorAll(".link");
